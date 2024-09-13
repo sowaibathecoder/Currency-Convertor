@@ -1,0 +1,23 @@
+{
+  "name": "sown02-currency-converter",
+  "version": "1.0.0",
+  "description": "This is a cli currency converter with Typescript, Node.js and Package Inquirer.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SOWAIBA NAZ (490877)",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
